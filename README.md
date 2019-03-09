@@ -1,4 +1,4 @@
-# wcartust
+# wcartist
 
 ## How to use
 ### 1. create a text file        
