@@ -1,7 +1,11 @@
 # wcartust
 
 ## How to use
-1. create a text file     
+1. create a text file   
+   
+![](https://github.com/koji/wcartist/blob/master/image/input.png)   
+   
+     
 2. get an black & white image     
 3. run command     
 ```
@@ -21,3 +25,4 @@ $ wcartist --input image.png --text test.txt --num 1000 --bc black --output wcar
 ```
 
 ## example
+![output](https://github.com/koji/wcartist/blob/master/image/output.png)
