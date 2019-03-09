@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+
+import wcartist
+
+if __name__ == '__main__':
+    wcartist.main()

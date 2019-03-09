@@ -1,0 +1,7 @@
+.DS_Store
+code/build
+code/dist
+code/README.md
+code/bin/.DS_Store
+code/wcartist.egg-info/
+code/wcartist/.DS_Store
