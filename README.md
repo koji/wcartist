@@ -1,5 +1,17 @@
 # wcartist
 
+## How to install
+```
+$ pip install wcartist
+```
+
+```
+$ git clone https://github.com/koji/wcartist.git
+$ cd wcartist/code 
+$ pip install setuptools
+$ python setup.py install  this requires setuptools > 38.0.0
+```
+
 ## How to use
 ### 1. create a text file        
 ### 2. get an black & white image
