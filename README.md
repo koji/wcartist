@@ -23,3 +23,5 @@ $ wcartist --input image.png --text test.txt --num 1000 --bc black --output wcar
 ## example
 ![input](https://github.com/koji/wcartist/blob/master/image/input.png) 
 ![output](https://github.com/koji/wcartist/blob/master/image/output.png)
+
+![comparison](https://github.com/koji/wcartist/blob/master/image/wcartist_sample01.png)
